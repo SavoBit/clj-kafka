@@ -1,5 +1,11 @@
 # clj-kafka
 
+## Experimental work for 0.9
+
+This branch contains experimental work-in-progress for Kafka's 0.9 release.
+
+## Summary
+
 Clojure library for [Kafka](https://kafka.apache.org).
 
 Current build status: [![Build Status](https://travis-ci.org/pingles/clj-kafka.png)](https://travis-ci.org/pingles/clj-kafka)
